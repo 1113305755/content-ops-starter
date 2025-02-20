@@ -1,5 +1,5 @@
 ---
-title: html
+title: ''
 slug: /
 sections:
   - type: GenericSection
