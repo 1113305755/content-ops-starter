@@ -1,5 +1,5 @@
 ---
-title: htnl
+title: html
 slug: /
 sections:
   - type: GenericSection
